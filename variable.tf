@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "ANKIAJH4DI4YERCEFVEXA"
-  secret_key = "FlJwq/I08750K9616h0i7KlN1NwgtaP0jjpbwiTZ7"
+  access_key = "key"
+  secret_key = "key"
 }
 variable "public_key_path" {
   description = <<DESCRIPTION
